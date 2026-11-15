@@ -1,0 +1,3 @@
+# SHIVA : conserver les octets des archives historiques
+legacy/** -text
+archive/phase0/fragments/** -text
